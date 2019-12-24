@@ -1,0 +1,35 @@
+//WAP in java to design a class to show function of banks(withdrawl and deposite).
+class Bank1
+{
+	String name;
+	int account_id;
+	double saving_amount;
+	double deposit;
+	double withdrawl_amount;
+	Bank1(String name,int account_id,double saving_amount,double deposit,double withdrawl_amount)
+	{
+		this.name=name;
+		this.account_id=account_id;
+		this.saving_amount=saving_amount;
+		this.deposit=deposit;
+		this.withdrawl_amount=withdrawl_amount;
+	}
+}
+class Bank2 extends Bank1
+{
+	Bank2(String name,int account_id,double saving_amount,double deposit,double withdrawl_amount)
+	{
+		super(name,account_id,saving_amount,deposit,withdrawl_amount);
+	}
+	void deposit_amount()
+	{
+		saving_amount=saving_amount+deposit;
+	}
+}
+class Account
+{
+	public static void main(String args[])
+	{
+		
+	}
+}
