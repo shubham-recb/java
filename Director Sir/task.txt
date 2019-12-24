@@ -1,0 +1,15 @@
+1)Wap in java to find reverse String of any Given String.
+2) Wap in java to find maximum number in an array.
+3) Wap to convert fahrenheit to celsius and celsius to fahrenheit
+4)wap to Create Simple Calculator
+5)Wap in java to take input by using BufferedReader Class and print the table in "2*1=2" form.
+6) *
+   * *
+   * * *
+7)  A B C
+    D E
+	F
+8) Wap in java to find simple interest.
+9)  Wap in java to find number is Palindrom or not.
+10) Wap in java to print Fibonacci series.	
+	
