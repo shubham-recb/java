@@ -1,0 +1,4 @@
+interface InterfaceName
+{
+	void A();
+}
