@@ -1,0 +1,1 @@
+// WAP to handle the user defined exception using throw keyword.
